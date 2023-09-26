@@ -85,7 +85,7 @@ Awards
         Extracurricular Academic Science and Technology Work Competition
 * 2011，Second prize of “National 3D Innovative Design Competition”
 
-For more info
+More info
 ------
 To be updated. The better is yet to come.
 
