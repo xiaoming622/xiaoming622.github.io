@@ -30,7 +30,7 @@ Education
 ------
 * 08/2018-present, Ph.D. program, Computer Science, University of Macau
 * 09/2014-06/2017, M.S. degree, Electromechanical Engineering, University of Macau
-* 09/2010-06/2014, B.S. degree, Mechanical Engineering, Shandong University of Technology
+* 09/2009-06/2013, B.S. degree, Mechanical Engineering, Shandong University of Technology
 
 Publications
 ------
