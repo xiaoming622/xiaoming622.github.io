@@ -12,8 +12,8 @@ Personal Information
 ======
 I am currently pursuing the Ph.D. degree in computer science from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). My research interests include:
 
-* Intelligent Robotics: calligraphy robot, motion/manipulation planning.
-* Machine Learning: generative adversarial networks, knowledge graph, and graph based learning.
+* **Intelligent Robotics**: calligraphy robot, motion/manipulation planning.
+* **Machine Learning**: generative adversarial networks, knowledge graph, and graph based learning.
 
 <!-- Furthermore, I actively keep abreast of the latest developments in AIGC technologies, with a particular interest in LLM, multimodal, and diffusion models. -->
 
@@ -46,11 +46,11 @@ Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Inter
 
 Research Experiences
 ------
-* 2018-present, Machine Learning/ Software Engineering Lab, University of Macau. Researching on robot control, Kinematics analysis, Machine learning.
+* 2018-present, **Machine Learning/ Software Engineering Lab**, University of Macau. Researching on robot control, Kinematics analysis, Machine learning.
 
-* 2014-2017, Mechatronics Lab, University of Macau. Researching on mobile robot design, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
+* 2014-2017, **Mechatronics Lab**, University of Macau. Researching on mobile robot design, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
 
-* 2010-2014, Bo-Shi Robot Innovation Lab, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, single-chip microcomputer design with SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
+* 2010-2014, **Bo-Shi Robot Innovation Lab**, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, single-chip microcomputer design with SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
 
 Teaching Experiences
 ------
