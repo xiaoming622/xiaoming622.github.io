@@ -40,10 +40,6 @@ Publications
 
 * [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://journals.sagepub.com/doi/10.1177/0954406214557342). Jinliang Gong, Xiaoming Wang, Fengan Huang and Yanfei Zhang. Journal of Mechanical Engineering Science (JCR Q3), 2015. 
 
-
-PREPRINT PAPERS
-------
-
 * [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). 
 Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal, Under Review.
 
