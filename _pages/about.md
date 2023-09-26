@@ -19,7 +19,7 @@ I am currently pursuing the Ph.D. degree in computer science from [Faculty of Sc
 
 <!-- As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area. -->
 
-I am very fortunate to be supervised by [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/) from University of Macau. I was also supervised by [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/) and [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/)  from University of Macau, Macau.
+My current supervisor is [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/) from University of Macau. I was also supervised by [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/) and [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/)  from University of Macau, Macau.
 
 You can find my CV here: [Curriculum Vitae of Xiaoming Wang](../files/cv_xiaoming.pdf).
 
