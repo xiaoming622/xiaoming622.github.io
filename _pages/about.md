@@ -19,7 +19,7 @@ I am currently pursuing the Ph.D. degree in computer science from [Faculty of Sc
 
 <!-- As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area. -->
 
-My current supervisor is [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/) from University of Macau. I was also supervised by [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/) and [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/)  from University of Macau, Macau.
+My current supervisor is [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/) from University of Macau. I was also supervised by [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/), [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/)  from University of Macau, [Prof. Yanfei ZHANG](https://qgxy.sdut.edu.cn/2020/0528/c8372a383525/page.htm), [Prof. Jinliang GONG](http://101.42.242.152/jiaoshiminglu/jsml.aspx) from Shandong University of Technology.  
 
 You can find my CV here: [Curriculum Vitae of Xiaoming Wang](../files/cv_xiaoming.pdf).
 
@@ -44,7 +44,7 @@ Publications
 Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal, Under Review.
 
 
-Research Experience
+Research Experiences
 ------
 * 2018-present, Machine Learning/ Software Engineering Lab, University of Macau. Researching on robot control, Kinematics analysis, Machine learning.
 
@@ -52,7 +52,7 @@ Research Experience
 
 * 2010-2014, Bo-Shi Robot Innovation Lab, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, single-chip microcomputer design with SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
 
-Teaching Experience
+Teaching Experiences
 ------
 2019-present, Residential Tutor, Lui Che Woo College, University of Macau
 2018-2021, Teaching Assistant, Faculty of Science and Technology, University of Macau
