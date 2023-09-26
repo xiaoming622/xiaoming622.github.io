@@ -10,58 +10,42 @@ redirect_from:
 
 Personal Introduction
 ======
-I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), actively seeking a faculty position at a university or higher education institution. My research expertise lies in the fields:
-* Computer Vision: object/anomaly/keypoint detection, industrial inspection.
-* Intelligent Systems: human-machine interaction, avatar technologies, and intelligent robotics.
+I am currently pursuing the Ph.D. degree in computer science from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). My research interests include:
 
-Furthermore, I actively keep abreast of the latest developments in AIGC technologies, with a particular interest in LLM, multimodal, and diffusion models.
+* Intelligent Robotics: calligraphy robot, motion/manipulation planning.
+* Machine Learning: generative adversarial networks, knowledge graph, and graph based learning.
 
-As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area.
+<!-- Furthermore, I actively keep abreast of the latest developments in AIGC technologies, with a particular interest in LLM, multimodal, and diffusion models. -->
 
-I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS) .
+<!-- As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area. -->
 
-You can find my CV here: [Curriculum Vitae of Wu Qingtian](../files/resume_wqt.pdf).
+I am very fortunate to be supervised by [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/) from University of Macau. I was also supervised by [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/) and [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/)  from University of Macau, Macau.
 
-[Email](mailto:qt.wu@outlook.com) / [Github](https://github.com/qingtianwu) / [CSDN](https://blog.csdn.net/wqthaha?type=blog)
+You can find my CV here: [Curriculum Vitae of Wu Qingtian](../files/cv_xiaoming.pdf).
+
+[Email](wangxiaoming622@hotmail.com) / [Github](https://github.com/xiaoming622) / [CSDN](https://blog.csdn.net/roca622?type=blog)
 
 
 Education
 ------
-* 08/2020-12/2023, Ph.D., Computer Science, University of Macau
-* 09/2014-06/2017, M.S., Computer Science, University of Chinese Academy of Sciences
-* 09/2010-06/2014, B.Eng., Information Engineering, Shenzhen University
+* 08/2018-present, Ph.D. program, Computer Science, University of Macau
+* 09/2014-06/2017, M.S. degree, Electromechanical Engineering, University of Macau
+* 09/2010-06/2014, B.S. degree, Mechanical Engineering, Shandong University of Technology
 
 Publications
 ------
-* [Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10124029). Qingtian Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Cognitive and Developmental Systems (JCR Q2), 2023. (First Author)
+* [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12198). Xiaoming Wang, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. CAAI Transactions on Intelligence Technology (JCR Q1), 2023. (First Author)
 
-* [A Local–Global Estimator Based on Large Kernel CNN and Transformer for Human Pose Estimation and Running Pose Measurement](https://ieeexplore.ieee.org/document/9863852). Qingtian Wu, Yongfei Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Instrumentation and Measurement (JCR Q1), 2022. (First Author) 
+* [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://link.springer.com/article/10.1007/s10846-017-0663-x). Xiao Xiao, Yangmin Li and Xiaoming Wang. Journal of Intelligent & Robotic Systems (JCR Q3), 2018.
 
-* [Level set guided region prototype rectification network for retinal vessel segmentation](https://www.sciencedirect.com/science/article/pii/S1746809423008613).
-Yifei Liu, Qingtian Wu, Xueyu Liu, Junyu Lu, Zhenhuan Xu, Yongfei Wu, Shu Feng, Jue Wang, Yujiu Yang. Biomedical Signal Processing and Control ( JCR Q2), 2023. 
+* [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://journals.sagepub.com/doi/10.1177/0954406214557342). Jinliang Gong, Xiaoming Wang, Fengan Huang and Yanfei Zhang. Journal of Mechanical Engineering Science (JCR Q3), 2015. 
 
-* [Real‐time running detection system for UAV imagery based on optical flow and deep convolutional networks](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-its.2019.0455).
-Qingtian Wu, Yimin Zhou, Xinyu Wu, Guoyuan Liang, Yongsheng Ou, Tianfu Sun. IET Intelligent Transport Systems (JCR Q3), 2020. (First Author) 
-
-* [The noninvasive blood pressure measurement based on facial images processing](https://ieeexplore.ieee.org/abstract/document/8779745). Yimin Zhou, Haiyang Ni, Qi Zhang, Qingtian Wu. IEEE Sensors Journal (JCR Q1), 2019. 
-
-* [Webcam-based, non-contact, real-time measurement for the physiological parameters of drivers](https://www.sciencedirect.com/science/article/pii/S0263224117300076).
-Qi Zhang#, Qingtian Wu#, Yimin Zhou, Xinyu Wu, Yongsheng Ou, Huazhang Zhou. measurement (JCR Q1), 2017. (Equal First Author)
 
 PREPRINT PAPERS
 ------
 
 * [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). 
-Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal, Under Review. (First Author).
-
-* YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. 
-Qingtian Wu, Hanzi Wang, Jiajian Zhang, and Liming Zhang. IEEE Transactions on Industrial Informatics, Under Review. (First Author).
-
-* Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization with Cheap Operations.
-Qingtian Wu, Nannan Li, Liming Zhang and Fei Richard Yu. IEEEE Transactions on Intelligent Transportation Systems, Under Review. (First Author).
-
-* Contrastive Prototype Learning with Pseudo Labeling for Semi-supervised Action Recognition.
-Nannan Li, Kan Huang, Qingtian Wu, Yang Zhao and Wenmin Wang. IEEE Transactions on Multimedia, Under Review.
+Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal, Under Review.
 
 
 Working Experience
