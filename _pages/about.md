@@ -50,7 +50,7 @@ Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Inter
 
 Research Experience
 ------
-* 2018-present, Biorobotics Lab, National University of Singapore. (From 09/2019 to 03/2020)
+* 2018-present, Machine Learning/ Software Engineering Lab, University of Macau. Researching on robot control, Kinematics analysis, Machine learning.
 
 * 2014-2017, Mechatronics Lab, University of Macau. Researching on mobile robot design, motion analysis, and intelligent control with the application of SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
 
@@ -58,11 +58,21 @@ Research Experience
 
 Teaching Experience
 ------
-Teaching Assistant, Faculty of Science and Technology, University of Macau
+2019-present, Residential Tutor, Lui Che Woo College, University of Macau
+2018-2021, Teaching Assistant, Faculty of Science and Technology, University of Macau
 * Information Technology Fundamentals and Practices, 2020-2021
 * Principles and Applications of Concurrent Programming, 2018-2019
 * Object-Oriented Analysis and Design Patterns, 2018-2019
 * English Language Centre - Teaching assistant certificate
+
+Professional activities
+------
+* 2021-present, IEEE Robotics and Automation Society, student membership, Macau
+* 2021-present, IEEE Young Professionals Program, Macau
+
+Fundings
+------
+* 2019-2023, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research and Development Program of China. (GRANT_NUMBER: 2019YFB1600704, Main contributor)
   
 Awards
 ------
