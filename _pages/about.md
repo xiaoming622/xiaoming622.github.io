@@ -48,9 +48,9 @@ Research Experience
 ------
 * 2018-present, Machine Learning/ Software Engineering Lab, University of Macau. Researching on robot control, Kinematics analysis, Machine learning.
 
-* 2014-2017, Mechatronics Lab, University of Macau. Researching on mobile robot design, motion analysis, and intelligent control with the application of SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
+* 2014-2017, Mechatronics Lab, University of Macau. Researching on mobile robot design, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
 
-* 2010-2014, Bo-Shi Robot Innovation Lab, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, Single-Chip Microcomputer design with the application of SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
+* 2010-2014, Bo-Shi Robot Innovation Lab, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, single-chip microcomputer design with SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
 
 Teaching Experience
 ------
