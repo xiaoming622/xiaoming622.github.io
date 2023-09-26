@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI changes the future."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -48,33 +48,32 @@ PREPRINT PAPERS
 Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal, Under Review.
 
 
-Working Experience
+Research Experience
 ------
-* Research Assistant, Biorobotics Lab, National University of Singapore. (From 09/2019 to 03/2020)
-<!-- Developing visual interaction system of tracking moving targets and engaging with users. -->
-* Research Assistant, Intelligent System Lab, SIAIT-CAS-CUHK. (From 08/2018 to 09/2019)
-<!-- Researching on UAV-based visual target detection and life searching in rescue and monitoring. -->
-* Engineer, 2012 Lab, Huawei. (From 06/2017 to 07/2018)
+* 2018-present, Biorobotics Lab, National University of Singapore. (From 09/2019 to 03/2020)
 
-<!-- Software development, and NLP algorithm research -->
+* 2014-2017, Mechatronics Lab, University of Macau. Researching on mobile robot design, motion analysis, and intelligent control with the application of SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
+
+* 2010-2014, Bo-Shi Robot Innovation Lab, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, Single-Chip Microcomputer design with the application of SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
 
 Teaching Experience
 ------
 Teaching Assistant, Faculty of Science and Technology, University of Macau
-* Multimedia computing 2020-2021, 2021-2022
-* OOP and Data Structures 2020-2021, 2021-2022, 2022-2023
-* Discrete System Simulation 2021-2022
-* Pattern Recognition 2020-2021
-* English Language Centre - Independent Learning 2020-2021
+* Information Technology Fundamentals and Practices, 2020-2021
+* Principles and Applications of Concurrent Programming, 2018-2019
+* Object-Oriented Analysis and Design Patterns, 2018-2019
+* English Language Centre - Teaching assistant certificate
   
 Awards
 ------
-* 2020-2023年，澳门大学博士助学金
-* 2019年，第九届吴文俊人工智能科技进步三等奖(第四完成人)
-* 2014年，深圳大学校级优秀毕业生
-* 2010-2014年，国家奖学金，深圳大学学业特等奖学金，国家励志奖学金，永亨银行奖学金
-* 2012年，全国大学生电子设计大赛优秀奖
-* 2011年，第三届全国大学生数学竞赛(非数学类)三等奖
+* 2018-present，Research Assistant scholarship, PhD program, University of Macau
+* 2019-2021, Teaching Assistant scholarship, PhD program, University of Macau
+* 2015-2018，Research Assistant scholarship, master program, University of Macau
+* 2011-2014，School scholarship, Shandong University of Technology
+* 2012，Specialized scholarship of Scientific and Technological
+* 2012，Second prize of the Twelfth Session “The Challenge Cup” Shandong University Student 
+        Extracurricular Academic Science and Technology Work Competition
+* 2011，Second prize of “National 3D Innovative Design Competition”
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -115,4 +114,5 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info to be updated. The better is yet to come...
+<!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
