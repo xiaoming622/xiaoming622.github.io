@@ -36,12 +36,14 @@ Publications
 ------
 * [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12198). Xiaoming Wang, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. CAAI Transactions on Intelligence Technology (JCR Q1), 2023. (**First Author**)
 
-* [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://link.springer.com/article/10.1007/s10846-017-0663-x). Xiao Xiao, Yangmin Li and Xiaoming Wang. Journal of Intelligent & Robotic Systems (JCR Q3), 2018.
-
-* [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://journals.sagepub.com/doi/10.1177/0954406214557342). Jinliang Gong, Xiaoming Wang, Fengan Huang and Yanfei Zhang. Journal of Mechanical Engineering Science (JCR Q3), 2015. 
+* [Style Generation in Robot Calligraphy with Deep Generative Adversarial Networks](https://arxiv.org/abs/2309.11773). Xiaoming Wang, Zhiguo Gong. Applied Intelligence Journal, Under Review. (**First Author**)
 
 * [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). 
 Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal, Under Review.
+
+* [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://link.springer.com/article/10.1007/s10846-017-0663-x). Xiao Xiao, Yangmin Li and Xiaoming Wang. Journal of Intelligent & Robotic Systems (JCR Q3), 2018.
+
+* [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://journals.sagepub.com/doi/10.1177/0954406214557342). Jinliang Gong, Xiaoming Wang, Fengan Huang and Yanfei Zhang. Journal of Mechanical Engineering Science (JCR Q3), 2015. 
 
 
 Research Experiences
