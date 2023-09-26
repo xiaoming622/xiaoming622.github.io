@@ -21,7 +21,7 @@ I am currently pursuing the Ph.D. degree in computer science from [Faculty of Sc
 
 I am very fortunate to be supervised by [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/) from University of Macau. I was also supervised by [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/) and [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/)  from University of Macau, Macau.
 
-You can find my CV here: [Curriculum Vitae of Wu Qingtian](../files/cv_xiaoming.pdf).
+You can find my CV here: [Curriculum Vitae of Xiaoming Wang](../files/cv_xiaoming.pdf).
 
 [Email](wangxiaoming622@hotmail.com) / [Github](https://github.com/xiaoming622) / [CSDN](https://blog.csdn.net/roca622?type=blog)
 
