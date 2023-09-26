@@ -34,7 +34,7 @@ Education
 
 Publications
 ------
-* [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12198). Xiaoming Wang, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. CAAI Transactions on Intelligence Technology (JCR Q1), 2023. (First Author)
+* [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12198). Xiaoming Wang, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. CAAI Transactions on Intelligence Technology (JCR Q1), 2023. (**First Author**)
 
 * [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://link.springer.com/article/10.1007/s10846-017-0663-x). Xiao Xiao, Yangmin Li and Xiaoming Wang. Journal of Intelligent & Robotic Systems (JCR Q3), 2018.
 
@@ -68,7 +68,7 @@ Professional activities
 
 Fundings
 ------
-* 2019-2023, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research and Development Program of China. (GRANT_NUMBER: 2019YFB1600704, Main contributor)
+* 2019-2023, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research and Development Program of China. (*GRANT_NUMBER: 2019YFB1600704, Main contributor*)
   
 Awards
 ------
