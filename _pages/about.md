@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Personal Information
+Personal Info
 ======
 I am currently pursuing the Ph.D. degree in computer science from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). My research interests include:
 
