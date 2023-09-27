@@ -63,10 +63,16 @@ Teaching Experiences
 * Object-Oriented Analysis and Design Patterns, 2018-2019
 * English Language Centre - Teaching assistant certificate
 
-Professional activities
+Academic activities
 ------
 * 2021-present, IEEE Robotics and Automation Society, student membership, Macau
 * 2021-present, IEEE Young Professionals Program, Macau
+* Served as a reviewer of IEEE/ASME Transactions on Mechatronics, CAAI Transactions on Intelligence Technology, etc.
+* Served as a volunteer for IJCAI 2023.
+
+Internship
+------
+* 2023.05-2023.11, Zhuhai UM Science & Technology Research Institute (ZUMRI)
 
 Fundings
 ------
