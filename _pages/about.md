@@ -23,7 +23,7 @@ My current supervisor is [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fs
 
 You can find my CV here: [Curriculum Vitae of Xiaoming Wang](../files/cv_xiaoming.pdf).
 
-[Email](wangxiaoming622@hotmail.com) / [Github](https://github.com/xiaoming622) / [CSDN](https://blog.csdn.net/roca622?type=blog)
+[Email](wangxiaoming622@hotmail.com) / [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56735048400) / [Github](https://github.com/xiaoming622) / [CSDN](https://blog.csdn.net/roca622?type=blog) / [DBLP](https://dblp.org/pid/60/2139-13.html)
 
 
 Education
