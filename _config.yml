@@ -84,11 +84,14 @@ author:
   avatar           : "xiaoming.jpg"
   bio              : "A researcher on robotics and machine learning"
   location         : "Macau, China"
+  email            : "wangxiaoming622@hotmail.com"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed         : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/0000-0001-5118-4581"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56735048400"
   googlescholar    : "https://scholar.google.com/citations?user=nsF7SpoAAAAJ&hl=en"
-  email            :
   researchgate     : "https://www.researchgate.net/profile/Xiaoming-Wang-58"
+  github           : "xiaoming622"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +99,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xiaoming622"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5118-4581"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -111,7 +112,6 @@ author:
   tumblr           :
   # twitter          : "replacethistwitterhandle"
   vine             :
-  scopus            : "https://www.scopus.com/authid/detail.uri?authorId=56735048400"
   xing             :
   youtube          :
   wikipedia        :
