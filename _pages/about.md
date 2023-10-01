@@ -56,18 +56,19 @@ Research Experiences
 
 Teaching Experiences
 ------
-2019-present, Residential Tutor, Lui Che Woo College, University of Macau
 2018-2021, Teaching Assistant, Faculty of Science and Technology, University of Macau
 * Information Technology Fundamentals and Practices, 2020-2021
 * Principles and Applications of Concurrent Programming, 2018-2019
 * Object-Oriented Analysis and Design Patterns, 2018-2019
 * English Language Centre - Teaching assistant certificate
 
+2019-present, Residential Tutor, Lui Che Woo College, University of Macau
+
 Academic activities
 ------
 * 2021-present, IEEE Robotics and Automation Society, student membership, Macau
 * 2021-present, IEEE Young Professionals Program, Macau
-* Served as a reviewer of IEEE/ASME Transactions on Mechatronics, CAAI Transactions on Intelligence Technology, etc.
+* Served as a reviewer of IEEE/ASME Transactions on Mechatronics journal, CAAI Transactions on Intelligence Technology journal, etc.
 * Served as a volunteer for IJCAI 2023.
 
 Internship
@@ -76,7 +77,7 @@ Internship
 
 Fundings
 ------
-* 2019-2023, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research and Development Program of China. (*GRANT_NUMBER: 2019YFB1600704, Main contributor*)
+* 2021-2023, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research and Development Program of China. (*GRANT_NUMBER: 2019YFB1600704, Main contributor*)
   
 Awards
 ------
@@ -93,7 +94,7 @@ More info
 ------
 To be updated. The better is yet to come.
 
-[Email](wangxiaoming622@hotmail.com) / [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56735048400) / [Github](https://github.com/xiaoming622) / [CSDN](https://blog.csdn.net/roca622?type=blog) / [DBLP](https://dblp.org/pid/60/2139-13.html) / [LinkedIn](https://www.linkedin.com/in/xiaoming-wang-roca622/)
+[Email](wangxiaoming622@hotmail.com) / [Github](https://github.com/xiaoming622) / [CSDN](https://blog.csdn.net/roca622?type=blog) / [DBLP](https://dblp.org/pid/60/2139-13.html) / [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56735048400) / [LinkedIn](https://www.linkedin.com/in/xiaoming-wang-roca622/)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
