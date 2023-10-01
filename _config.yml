@@ -88,7 +88,7 @@ author:
   employer         :
   # pubmed         : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   orcid            : "https://orcid.org/0000-0001-5118-4581"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56735048400"
+  # scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56735048400"
   googlescholar    : "https://scholar.google.com/citations?user=nsF7SpoAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Xiaoming-Wang-58"
   github           : "xiaoming622"
@@ -97,20 +97,20 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/simon.wang.9862273"
+  # facebook         : "https://www.facebook.com/simon.wang.9862273"
   foursquare       :
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/xiaoming622519/"
+  # instagram        : "https://www.instagram.com/xiaoming622519/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xiaoming-wang-roca622/"
+  # linkedin         : "https://www.linkedin.com/in/xiaoming-wang-roca622/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/simonwang622"
+  # twitter          : "https://twitter.com/simonwang622"
   vine             :
   weibo            :
   xing             :
