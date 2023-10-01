@@ -56,18 +56,19 @@ Research Experiences
 
 Teaching Experiences
 ------
-2019-present, Residential Tutor, Lui Che Woo College, University of Macau
 2018-2021, Teaching Assistant, Faculty of Science and Technology, University of Macau
 * Information Technology Fundamentals and Practices, 2020-2021
 * Principles and Applications of Concurrent Programming, 2018-2019
 * Object-Oriented Analysis and Design Patterns, 2018-2019
 * English Language Centre - Teaching assistant certificate
 
+2019-present, Residential Tutor, Lui Che Woo College, University of Macau
+
 Academic activities
 ------
 * 2021-present, IEEE Robotics and Automation Society, student membership, Macau
 * 2021-present, IEEE Young Professionals Program, Macau
-* Served as a reviewer of IEEE/ASME Transactions on Mechatronics, CAAI Transactions on Intelligence Technology, etc.
+* Served as a reviewer of IEEE/ASME Transactions on Mechatronics journal, CAAI Transactions on Intelligence Technology journal, etc.
 * Served as a volunteer for IJCAI 2023.
 
 Internship
@@ -76,7 +77,7 @@ Internship
 
 Fundings
 ------
-* 2019-2023, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research and Development Program of China. (*GRANT_NUMBER: 2019YFB1600704, Main contributor*)
+* 2021-2023, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research and Development Program of China. (*GRANT_NUMBER: 2019YFB1600704, Main contributor*)
   
 Awards
 ------
