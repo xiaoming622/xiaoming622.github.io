@@ -56,13 +56,14 @@ Research Experiences
 
 Teaching Experiences
 ------
-2018-2021, Teaching Assistant, Faculty of Science and Technology, University of Macau
+2019.01-2021.05, Teaching Assistant, Faculty of Science and Technology, University of Macau
 * Information Technology Fundamentals and Practices, 2020-2021
 * Principles and Applications of Concurrent Programming, 2018-2019
 * Object-Oriented Analysis and Design Patterns, 2018-2019
 * English Language Centre - Teaching assistant certificate
 
-2019-present, Residential Tutor, Lui Che Woo College, University of Macau
+2019.08-present, Residential Tutor, Lui Che Woo College, University of Macau
+2016.11-2017.12, House Tutor, Postgraduate House, University of Macau
 
 Academic activities
 ------
@@ -77,7 +78,8 @@ Internship
 
 Fundings
 ------
-* 2021-2023, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research and Development Program of China. (*GRANT_NUMBER: 2019YFB1600704, Main contributor*)
+* 2019.12-2023.11, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research & Development Program of China. (Grant no: 2019YFB1600704, Main contributor)
+* 2017-2019, Model-Driven Software Development from Requirement Description to Code Generation. Science and Technology Development Fund. (Grant no: MYRG 2017-00141-FST)
   
 Awards
 ------
