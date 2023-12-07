@@ -26,7 +26,7 @@ You can find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaom
 
 Education
 ------
-* 08/2018-present, Ph.D. program, Computer Science, University of Macau
+* 08/2018-present, Ph.D. candidate, Computer Science, University of Macau
 * 09/2014-06/2017, M.S. degree, Electromechanical Engineering, University of Macau
 * 09/2009-06/2013, B.S. degree, Mechanical Engineering, Shandong University of Technology
 
