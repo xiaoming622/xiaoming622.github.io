@@ -63,6 +63,7 @@ Teaching Experiences
 * English Language Centre - Teaching assistant certificate
 
 2019.08-present, Residential Tutor, Lui Che Woo College, University of Macau
+
 2016.11-2017.12, House Tutor, Postgraduate House, University of Macau
 
 Academic activities
