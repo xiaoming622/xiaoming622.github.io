@@ -80,9 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoming Wang 
-
-  王曉明"
+  name             : "Xiaoming Wang   
+                      王曉明"
   avatar           : "xiaoming.jpg"
   bio              : "Researching on robotics and machine learning"
   location         : "Macau, China"
