@@ -10,25 +10,26 @@ redirect_from:
 
 Personal Information
 ======
-I am currently pursuing the Ph.D. degree in computer science from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). My research interests include:
+I am currently a PhD candidate in computer science from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). My research interests include:
 
-* **Intelligent Robotics**: motion/manipulation planning, calligraphy robot
-* **Machine Learning**: generative adversarial networks, knowledge graph, graph based learning
+* **Intelligent Robotics**: motion planning, mobile robot, robot calligraphy
+* **Machine Learning**: generative learning, graph neural networks, knowledge graph
 
 <!-- Furthermore, I actively keep abreast of the latest developments in AIGC technologies, with a particular interest in LLM, multimodal, and diffusion models. -->
 
 <!-- As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area. -->
 
-My current supervisor is [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/) from University of Macau. I was also supervised by [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/), [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/)  from University of Macau, [Prof. Yanfei ZHANG](https://qgxy.sdut.edu.cn/2020/0528/c8372a383525/page.htm), [Prof. Jinliang GONG](http://101.42.242.152/jiaoshiminglu/jsml.aspx) from Shandong University of Technology.  
+I work in the State Key Laboratory of Internet of Things for Smart City, under the supervision of [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/) from University of Macau. I was also supervised by [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/), [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/)  from University of Macau, [Prof. Yanfei ZHANG](https://qgxy.sdut.edu.cn/2020/0528/c8372a383525/page.htm), [Prof. Jinliang GONG](http://101.42.242.152/jiaoshiminglu/jsml.aspx) from Shandong University of Technology.  
 
 You can find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaoming622.github.io/blob/master/files/CV_XiaomingWang_231001.pdf).
 
 
 Education
 ------
-* 08/2018-present, Ph.D. candidate, Computer Science, University of Macau
+* 08/2018-present, Ph.D. candidate, Computer Science, University of Macau (THE 193/ QS 254, China University “C9 League +”) 
 * 08/2014-07/2018, M.S. degree, Electromechanical Engineering, University of Macau
-* 09/2009-07/2013, B.S. degree, Mechanical Engineering, Shandong University of Technology
+* 09/2009-07/2013, B.S. degree, Excellent Experimental Class, Mechanical and Automation Engineering, Shandong University of Technology, Shandong, China.
+
 
 Publications
 ------
