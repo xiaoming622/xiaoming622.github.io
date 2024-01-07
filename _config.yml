@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "<p align=center>Xiaoming Wang</p> <br /> <p align=center>王曉明</p>"
+  name             : "<p align=center>Xiaoming Wang</p><br /><p align=center>王曉明</p>"
   avatar           : "xiaoming.jpg"
   bio              : "Researching on robotics and machine learning"
   location         : "Macau, China"
