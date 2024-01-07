@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoming Wang"
+  name             : <p align="center">Xiaoming Wang</p>
    # "<p align="center"center>Xiaoming Wang</p> <br /> 王曉明"
   avatar           : "xiaoming.jpg"
   bio              : "Researching on robotics and machine learning"
