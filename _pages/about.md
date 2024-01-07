@@ -33,23 +33,32 @@ Education
 
 Publications
 ------
-* [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12198). **Xiaoming Wang**, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. CAAI Transactions on Intelligence Technology (JCR Q1), 2023. (First Author)
+* **Xiaoming Wang**, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12198). CAAI Transactions on Intelligence Technology (JCR Q1/5.1), 2023.
 
-* [Style Generation in Robot Calligraphy with Deep Generative Adversarial Networks](). **Xiaoming Wang**, Zhiguo Gong. Applied Intelligence Journal (JCR Q2), Under Review. (First Author)
+* **Xiaoming Wang**, Zhiguo Gong. [Style Generation in Robot Calligraphy with Deep Generative Adversarial Networks](https://doi.org/10.48550/arXiv.2312.09673). Applied Intelligence Journal (JCR Q2/ IF 5.3), Preprint.
 
-* [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). 
-Qingtian Wu, **Xiaoming Wang**, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal (JCR Q1), Under Review.
+* **Xiaoming Wang**, Peng Liu, Ruidong Xi, Zhiguo Gong. [Enhancing Calligraphy Generation With Deep Generative Adversarial Networks](). IEEE Signal Processing Letters (JCR Q2/IF 3.9), Preprint.
 
-* [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://link.springer.com/article/10.1007/s10846-017-0663-x). Xiao Xiao, Yangmin Li and **Xiaoming Wang**. Journal of Intelligent & Robotic Systems (JCR Q3), 2018.
+* Qingtian Wu, **Xiaoming Wang**, Liming Zhang, etc. [YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection]() IEEE Transactions on Industrial Informatics (JCR Q1/ IF 12.3), Preprint.
 
-* [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://journals.sagepub.com/doi/10.1177/0954406214557342). Jinliang Gong, **Xiaoming Wang**, Fengan Huang and Yanfei Zhang. Journal of Mechanical Engineering Science (JCR Q3), 2015. 
+* Qingtian Wu, **Xiaoming Wang**, Lei Dai, Fei Richard Yu and Liming Zhang. [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). IEEE Internet of Things Journal (JCR Q1/ IF 10.6), Preprint.
 
+* Xiao Xiao, Yangmin Li and **Xiaoming Wang**. [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://link.springer.com/article/10.1007/s10846-017-0663-x). Springer Journal of Intelligent & Robotic Systems, 2018. (JCR Q3/ IF 3.3)
+
+* Jinliang Gong, **Xiaoming Wang**, Fengan Huang and Yanfei Zhang. [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://journals.sagepub.com/doi/10.1177/0954406214557342). Journal of Mechanical Engineering Science, 2015. (JCR Q3/ IF 2.07)
+
+《Data for intelligent operation and maintenance of bridge-island-tunnel crossings— Common structural element information》 (T/GBAS 68—2023)，Guangdong-Hong Kong-Macao Greater Bay Area Standards Promotion Council of Guangdong Province, 2023. (Co-author)
+
+Projects/Funding
+------
+* 2019.12-2023.11, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research & Development Program of China. (Grant no: 2019YFB1600704, RMB 1830800, Main contributor)
+* 2017-2019, Model-Driven Software Development from Requirement Description to Code Generation. Macau Science and Technology Development Fund. (Grant no: MYRG 2017-00141-FST)
 
 Research Experiences
 ------
 * 2021-present, **State Key Laboratory of Internet of Things for Smart City**, University of Macau. Researching on intelligent robotics, machine learning.
 
-* 2018-2021, **Software Engineering Lab**, University of Macau. Researching on robot control, Kinematics analysis, calligraphy reproduction.
+* 2018-2021, **Software Engineering Lab**, University of Macau. Researching on robot control, Kinematics analysis, GUI design, calligraphy reproduction.
 
 * 2014-2018, **Mechatronics Lab**, University of Macau. Researching on mobile robot design, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
 
@@ -57,13 +66,13 @@ Research Experiences
 
 Teaching Experiences
 ------
-2019.01-2021.05, Teaching Assistant, Faculty of Science and Technology, University of Macau
-* Information Technology Fundamentals and Practices, 2020-2021
-* Principles and Applications of Concurrent Programming, 2018-2019
-* Object-Oriented Analysis and Design Patterns, 2018-2019
+2019.01-2021.05, Teaching Assistant (in English), Faculty of Science and Technology, University of Macau
 * English Language Centre - Teaching assistant certificate
+* Object-Oriented Analysis and Design Patterns (2018/2019)
+* Principles and Applications of Concurrent Programming (2018/2019)
+* Information Technology Fundamentals and Practices (2020/2021)
 
-2019.08-present, Residential Tutor, Lui Che Woo College, University of Macau
+2019.08-present, Resident Tutor, Lui Che Woo College, University of Macau
 
 2016.11-2017.12, House Tutor, Postgraduate House, University of Macau
 
@@ -78,21 +87,26 @@ Internship
 ------
 * 2023.05-2023.11, Zhuhai UM Science & Technology Research Institute (ZUMRI)
 
-Fundings
+Certificates
 ------
-* 2019.12-2023.11, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research & Development Program of China. (Grant no: 2019YFB1600704, Main contributor)
-* 2017-2019, Model-Driven Software Development from Requirement Description to Code Generation. Science and Technology Development Fund. (Grant no: MYRG 2017-00141-FST)
+* Web of Science Academy Certificates: Good Citation Behavior; Introduction to Peer Review; Introduction to Ethical Publishing Behavior; Reviewing in the Sciences.
+* Mental Health First Aid (MHFA) Standard Course. The Mental Health Association of Hong Kong. (2023.03)
+* College team of table tennis. Captain/Instructor. Lui Che Woo College. (2019-2023)
+* University team of table tennis, University of Macau. (2015-2018)
+* Calligraphy Club, President/Advisor. University of Macau. (2015-2018)
+* Chinese Mandarin Test, secondary-level A. (2012.10)
   
 Awards
 ------
-* 2018-present，Research Assistant scholarship, PhD program, University of Macau
-* 2019-2021, Teaching Assistant scholarship, PhD program, University of Macau
-* 2015-2018，Research Assistant scholarship, master program, University of Macau
-* 2011-2014，School scholarship, Shandong University of Technology
-* 2012，Specialized scholarship of Scientific and Technological
-* 2012，Second prize of the Twelfth Session “The Challenge Cup” Shandong University Student 
-        Extracurricular Academic Science and Technology Work Competition
-* 2011，Second prize of “National 3D Innovative Design Competition”
+* 2018-present, PhD Research Assistant scholarship, University of Macau
+* 2019-2021, PhD Teaching Assistant scholarship, University of Macau
+* 2015-2018, Master Research Assistant scholarship, University of Macau
+* 2011-2014, School scholarship, Shandong University of Technology
+* 2012, Specialized scholarship of Scientific and Technological, SDUT
+* 2012, Second prize of the Twelfth Session “The Challenge Cup” Shandong University Student Extracurricular Academic Science and Technology Work Competition
+* 2011, Excellent/Second prize of National 3D Innovation Design Competition
+* Provincial Second Prize in Mathematics Olympiad
+* Calligraphy Competition Awards: First Prize in Shandong University of Technology calligraphy Competition; Outstanding Prize (2018), Third Prize (2019), Third Prize (2019) of Brush Calligraphy Competition in University of Macau; First Prize of Handwritten Miniature Poetry Competition (2019) in University of Macau.
 
 More info
 ------
