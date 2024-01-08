@@ -39,7 +39,7 @@ Publications
 
 * **Xiaoming Wang**, Peng Liu, Ruidong Xi, Zhiguo Gong. [Enhancing Calligraphy Generation With Deep Generative Adversarial Networks](). IEEE Signal Processing Letters (JCR Q2/IF 3.9), Preprint.
 
-* Qingtian Wu, **Xiaoming Wang**, Liming Zhang, etc. [YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection]() IEEE Transactions on Industrial Informatics (JCR Q1/ IF 12.3), Preprint.
+* Qingtian Wu, **Xiaoming Wang**, Hanzi Wang, Jiajian Zhang, Liming Zhang. [YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection]() IEEE Transactions on Industrial Informatics (JCR Q1/ IF 12.3), Preprint.
 
 * Qingtian Wu, **Xiaoming Wang**, Lei Dai, Fei Richard Yu and Liming Zhang. [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). IEEE Internet of Things Journal (JCR Q1/ IF 10.6), Preprint.
 
