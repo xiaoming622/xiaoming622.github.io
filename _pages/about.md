@@ -33,7 +33,7 @@ Education
 
 Publications
 ------
-* **Xiaoming Wang**, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12198). CAAI Transactions on Intelligence Technology (JCR Q1/5.1), 2023.
+* **Xiaoming Wang**, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12198). CAAI Transactions on Intelligence Technology (JCR Q1/7.9), 2023.
 
 * **Xiaoming Wang**, Zhiguo Gong. [Style Generation in Robot Calligraphy with Deep Generative Adversarial Networks](https://doi.org/10.48550/arXiv.2312.09673). Applied Intelligence Journal (JCR Q2/ IF 5.3), Preprint.
 
