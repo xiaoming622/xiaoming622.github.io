@@ -82,10 +82,12 @@ Teaching Experiences
 
 Academic activities
 ------
-* 2021-present, IEEE Robotics and Automation Society, student membership, Macau
-* 2021-present, IEEE Young Professionals Program, Macau
+* 2021-present, IEEE Robotics and Automation Society, membership
+* 2021-present, IEEE Young Professionals Program, membership
+* Served as an Editorial Board Member of International Journal of Intelligent Information Systems (IJIIS, 4/3/2024-4/3/2027). 
+* Served as a reviewer of IEEE Transactions on Circuits and Systems for Video Technology, IEEE/ASME Transactions on Mechatronics, CAAI Transactions on Intelligence Technology, Frontiers in Neuroscience,  etc.
 * Served as a reviewer of IEEE/ASME Transactions on Mechatronics journal, CAAI Transactions on Intelligence Technology journal, etc.
-* Served as a volunteer for IJCAI 2023.
+* Served as a volunteer for IJCAI 2023, The 5th International Conference on Nano Manufacturing (nanoMan 2016, Macau), etc.
 * To be serving as a session co-chair of International Conference on Computer Technology and Information Science (CTIS 2024).
 
 Internship
