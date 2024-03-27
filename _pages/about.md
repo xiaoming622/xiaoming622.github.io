@@ -53,18 +53,18 @@ Publications
 
 * 《Data for intelligent operation and maintenance of bridge-island-tunnel crossings— Common structural element information》 (T/GBAS 68—2023)，Guangdong-Hong Kong-Macao Greater Bay Area Standards Promotion Council of Guangdong Province, 2023. (Co-author)
 
-Projects/Funding
+Projects/Fundings
 ------
-* 2019.12-2023.11, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. National Key Research & Development Program of China. (Grant no: 2019YFB1600704, RMB 1830800, Main contributor)
+* 2019.12-2023.11, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. **National Key Research & Development Program of China**. (Grant no: 2019YFB1600704, RMB 1830800, Main contributor)
 * 2017-2019, Model-Driven Software Development from Requirement Description to Code Generation. Macau Science and Technology Development Fund. (Grant no: MYRG 2017-00141-FST)
 
 Research Experiences
 ------
-* 2021-present, **State Key Laboratory of Internet of Things for Smart City**, University of Macau. Researching on intelligent robotics, machine learning.
+* 2021-present, **State Key Laboratory of Internet of Things for Smart City**, University of Macau. Researching on generative AI, robotic machine learning.
 
-* 2018-2021, **Software Engineering Lab**, University of Macau. Researching on robot control, Kinematics analysis, GUI design, calligraphy reproduction.
+* 2018-2021, **Software Engineering Lab**, University of Macau. Researching on calligraphy robot, intelligent control, GUI design.
 
-* 2014-2018, **Mechatronics Lab**, University of Macau. Researching on mobile robot design, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
+* 2014-2018, **Mechatronics Lab**, University of Macau. Researching on mobile robot, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
 
 * 2009-2013, **Parallel Robot Innovation Lab**, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, single-chip microcomputer design with SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
 
