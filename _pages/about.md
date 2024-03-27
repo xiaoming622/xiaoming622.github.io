@@ -43,9 +43,15 @@ Publications
 
 * **Xiaoming Wang**, Peng Liu, Ruidong Xi, Zhiguo Gong. [Enhancing Calligraphy Generation With Deep Generative Adversarial Networks](). IEEE Signal Processing Letters (JCR Q2/IF 3.9), Preprint.
 
+* **Xiaoming Wang**, Qingtian Wu, Ruidong Xi, Zhiguo Gong. MegKG: Meta-graph Guided Knowledge Graph Learning for Robot Motion Prediction. The 33rd International Joint Conference on Artificial Intelligence, IJCAI 2024, preprint. (CCF A)
+
+* **Xiaoming Wang**, Peng Liu, Ruidong Xi, Zhiguo Gong. FineCS: Enhancing Style Transfer for Calligraphy Synthesis With Deep Adversarial Learning. IEEE Transactions on Circuits and Systems for Video Technology, preprint. (JCR Q1/8.4)
+
 * Qingtian Wu, **Xiaoming Wang**, Hanzi Wang, Jiajian Zhang, Liming Zhang. [YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection]() IEEE Transactions on Industrial Informatics (JCR Q1/ IF 12.3), Preprint.
 
 * Qingtian Wu, **Xiaoming Wang**, Lei Dai, Fei Richard Yu and Liming Zhang. [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). IEEE Internet of Things Journal (JCR Q1/ IF 10.6), Preprint.
+
+* Ruidong Xi, Xue Zhang, Tienan Ma, Xiaoming Wang, Xiao Xiao, Max Q.-H. Meng. Disturbance Observer based Terminal Sliding Mode Control for an Electromagnetic Actuated Micropositioner with Prescribed Performance. IEEE Transactions on Automation Science and Engineering, preprint. (JCR Q2/ IF 5.6)
 
 * Xiao Xiao, Yangmin Li and **Xiaoming Wang**. [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://link.springer.com/article/10.1007/s10846-017-0663-x). Springer Journal of Intelligent & Robotic Systems, 2018. (JCR Q3/ IF 3.3)
 
