@@ -51,7 +51,6 @@ Publications
 
 * Jinliang Gong, **Xiaoming Wang**, Fengan Huang and Yanfei Zhang. [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://journals.sagepub.com/doi/10.1177/0954406214557342). Journal of Mechanical Engineering Science, 2015. (JCR Q3/ IF 2.07)
 
-* 《Data for intelligent operation and maintenance of bridge-island-tunnel crossings— Common structural element information》 (T/GBAS 68—2023)，Guangdong-Hong Kong-Macao Greater Bay Area Standards Promotion Council of Guangdong Province, 2023. (Co-author)
 
 Projects/Fundings
 ------
