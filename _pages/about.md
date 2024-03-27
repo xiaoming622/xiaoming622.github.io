@@ -10,7 +10,7 @@ redirect_from:
 
 Personal Information
 ======
-I am currently a PhD candidate in computer science from [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) (THE 193/ QS 254). My research interests include:
+I am currently a PhD candidate in computer science from [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) (THE 193/ QS 254, China University “C9 League+”). My research interests include:
 
 * **Intelligent Robotics**: calligraphy robot, mobile robot, control, planning, optimization
 * **Machine Learning**: generative AI, image processing, graph neural networks, knowledge graph, calligraphy database
