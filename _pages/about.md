@@ -61,8 +61,8 @@ Projects/Fundings
 Patents/Monograph
 ------
 * 《Data for intelligent operation and maintenance of bridge-island-tunnel crossings— Common structural element information》 (T/GBAS 68-2023)，Guangdong-Hong Kong-Macao Greater Bay Area Standards Promotion Council of Guangdong Province, 2023. (Co-author)
-* 《A method for bridge disease knowledge graph modeling and graph neural network prediction》. Patent. Under approving.
-* 《A robot calligraphy creation and optimization method based on generative adversarial network》. Patent. Under approving. 
+* 《A method for bridge disease knowledge graph modeling and graph neural network prediction》. Patent. In process.
+* 《A robot calligraphy creation and optimization method based on generative adversarial network》. Patent. In process. 
 
 Research Experiences
 ------
