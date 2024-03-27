@@ -15,9 +15,8 @@ I am currently a PhD candidate in computer science from [Department of Computer 
 Please find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaoming622.github.io/tree/master/files/XiaomingWang_CV_240108.pdf).
 
 My research interests include:
-
 * **Intelligent Robotics**: calligraphy robot, mobile robot, control, planning, optimization
-* **Machine Learning**: generative AI, image processing, knowledge graph, calligraphy database
+* **Machine Learning**: generative AI, image processing, knowledge graph, GNN
 
 <!-- Furthermore, I actively keep abreast of the latest developments in AIGC technologies, with a particular interest in LLM, multimodal, and diffusion models. -->
 
