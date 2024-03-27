@@ -32,7 +32,6 @@ Education
 * 08/2014-07/2018, M.S. degree, Electromechanical Engineering, University of Macau, Macau.
   supervisor: [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/), [Prof. Zhixin YANG](https://www.fst.um.edu.mo/personal/zxyang/)
 * 09/2009-07/2013, B.S. degree, Innovation Experimental Class, Mechanical and Automation Engineering, Shandong University of Technology, Shandong, China.                
-        
   supervisor: [Prof. Yanfei ZHANG](https://qgxy.sdut.edu.cn/2020/0528/c8372a383525/page.htm), [Prof. Jinliang GONG](http://101.42.242.152/jiaoshiminglu/jsml.aspx)
 
 
@@ -71,15 +70,15 @@ Research Experiences
 
 Teaching Experiences
 ------
-2019.01-2021.05, Teaching Assistant (in English), Faculty of Science and Technology, University of Macau
+2019.01-2021.05, **Teaching Assistant** (in English), Faculty of Science and Technology, University of Macau
 * English Language Centre - Teaching assistant certificate
 * Object-Oriented Analysis and Design Patterns (2018/2019)
 * Principles and Applications of Concurrent Programming (2018/2019)
 * Information Technology Fundamentals and Practices (2020/2021)
 
-2019.08-present, Resident Tutor, Lui Che Woo College, University of Macau
+2019.08-present, **Resident Tutor**, Lui Che Woo College, University of Macau
 
-2016.11-2017.12, House Tutor, Postgraduate House, University of Macau
+2016.11-2017.12, **House Tutor**, Postgraduate House, University of Macau
 
 Academic activities
 ------
