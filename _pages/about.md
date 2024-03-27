@@ -12,6 +12,7 @@ Personal Information
 ======
 I am currently a PhD candidate in computer science from [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) (THE 193/ QS 254, China University “C9 League+”). 
 
+Please find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaoming622.github.io/tree/master/files/XiaomingWang_CV_240108.pdf).
 
 My research interests include:
 
@@ -22,9 +23,6 @@ My research interests include:
 
 <!-- As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area. -->
 
-  
-
-Please find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaoming622.github.io/tree/master/files/XiaomingWang_CV_240108.pdf).
 
 
 Education
