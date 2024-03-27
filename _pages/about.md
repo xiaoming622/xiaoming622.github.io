@@ -58,6 +58,12 @@ Projects/Fundings
 * 2019.12-2023.11, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. **National Key Research & Development Program of China**. (Grant no: 2019YFB1600704, RMB 1830800, Main contributor)
 * 2017-2019, Model-Driven Software Development from Requirement Description to Code Generation. Macau Science and Technology Development Fund. (Grant no: MYRG 2017-00141-FST)
 
+Patents/Monograph
+------
+* 《Data for intelligent operation and maintenance of bridge-island-tunnel crossings— Common structural element information》 (T/GBAS 68-2023)，Guangdong-Hong Kong-Macao Greater Bay Area Standards Promotion Council of Guangdong Province, 2023. (Co-author)
+* 《A method for bridge disease knowledge graph modeling and graph neural network prediction》. Patent. Under approving.
+* 《A robot calligraphy creation and optimization method based on generative adversarial network》. Patent. Under approving. 
+
 Research Experiences
 ------
 * 2021-present, **State Key Laboratory of Internet of Things for Smart City**, University of Macau. Researching on generative AI, robotic machine learning.
@@ -85,8 +91,7 @@ Academic activities
 * 2021-present, IEEE Robotics and Automation Society, membership
 * 2021-present, IEEE Young Professionals Program, membership
 * Served as an Editorial Board Member of International Journal of Intelligent Information Systems (IJIIS, 4/3/2024-4/3/2027). 
-* Served as a reviewer of IEEE Transactions on Circuits and Systems for Video Technology, IEEE/ASME Transactions on Mechatronics, CAAI Transactions on Intelligence Technology, Frontiers in Neuroscience,  etc.
-* Served as a reviewer of IEEE/ASME Transactions on Mechatronics journal, CAAI Transactions on Intelligence Technology journal, etc.
+* Served as a reviewer of IEEE Transactions on Circuits and Systems for Video Technology, IEEE/ASME Transactions on Mechatronics, CAAI Transactions on Intelligence Technology, Frontiers in Neuroscience (IF4.3), etc.
 * Served as a volunteer for IJCAI 2023, The 5th International Conference on Nano Manufacturing (nanoMan 2016, Macau), etc.
 * To be serving as a session co-chair of International Conference on Computer Technology and Information Science (CTIS 2024).
 
