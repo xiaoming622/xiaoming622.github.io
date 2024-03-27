@@ -27,7 +27,7 @@ My research interests include:
 
 Education
 ------
-* 08/2018-present, Ph.D. candidate, Computer Science, University of Macau (THE 193/ QS 254, China University “C9 League +”) 
+* 08/2018-present, Ph.D. candidate, Computer Science, University of Macau 
   supervisor: [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/), [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/)
 * 08/2014-07/2018, M.S. degree, Electromechanical Engineering, University of Macau
   supervisor: [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/), [Prof. Zhixin Yang](https://www.fst.um.edu.mo/personal/zxyang/)
