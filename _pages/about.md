@@ -12,7 +12,7 @@ Personal Information
 ======
 I am currently a PhD candidate in computer science from [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) (THE 193/ QS 254, China University “C9 League+”). 
 
-Please find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaoming622.github.io/tree/master/files/XiaomingWang_CV_240720_tr.pdf).
+Please find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaoming622.github.io/tree/master/files/XiaomingWang_CV_240722_tr.pdf).
 
 My research interests include:
 
@@ -45,9 +45,9 @@ Publications
 
 * **Xiaoming Wang**, Qingtian Wu, Ruidong Xi, Zhiguo Gong. MegKG: Meta-graph Guided Knowledge Graph Learning for Robot Motion Prediction. preprint.
 
-* Qingtian Wu, **Xiaoming Wang**, Hanzi Wang, Jiajian Zhang, Liming Zhang. [YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection]() IEEE Transactions on Industrial Informatics (JCR Q1/ IF 12.3), Preprint.
+* Qingtian Wu, **Xiaoming Wang**, Hanzi Wang, Jiajian Zhang, Liming Zhang. [YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection]() IEEE Transactions on Industrial Informatics (JCR Q1/ IF 12.3), preprint.
 
-* Qingtian Wu, **Xiaoming Wang**, Lei Dai, Liming Zhang, Fei Richard Yu. [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). IEEE Internet of Things Journal (JCR Q1/ IF 10.6), Preprint.
+* Qingtian Wu, **Xiaoming Wang**, Lei Dai, Liming Zhang, Fei Richard Yu. [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). IEEE Internet of Things Journal (JCR Q1/ IF 10.6), preprint.
 
 * Xiao Xiao, Yangmin Li and **Xiaoming Wang**. [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://doi.org/10.1007/s10846-017-0663-x). Springer Journal of Intelligent & Robotic Systems, 2018. (JCR Q3/ IF 3.3)
 
