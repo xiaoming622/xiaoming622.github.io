@@ -27,7 +27,7 @@ My research interests include:
 
 Education
 ------
-* 08/2018-present, Ph.D. candidate, Computer Science, University of Macau, Macau.
+* 08/2018-07/2024, Ph.D. degree, Computer Science, University of Macau, Macau.
   supervisor: [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/), [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/)
 * 08/2014-07/2018, M.S. degree, Electromechanical Engineering, University of Macau, Macau.
   supervisor: [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/), [Prof. Zhixin YANG](https://www.fst.um.edu.mo/personal/zxyang/)
@@ -37,31 +37,28 @@ Education
 
 Publications
 ------
-* **Xiaoming Wang**, Zhiguo Gong. [RoDAL: Style Generation in Robot Calligraphy with Deep Adversarial Learning](https://doi.org/10.48550/arXiv.2312.09673). Applied Intelligence Journal (JCR Q2/ IF 5.3), Preprint.
+* **Xiaoming Wang**, Zhiguo Gong. [RoDAL: Style Generation in Robot Calligraphy with Deep Adversarial Learning](https://doi.org/10.1007/s10489-024-05597-6). Applied Intelligence Journal (JCR Q2/ IF 5.3), 2024.
 
-* **Xiaoming Wang**, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12198). CAAI Transactions on Intelligence Technology (JCR Q1/7.9), 2023.
+* **Xiaoming Wang**, Yilong Yang, Weiru Wang, Yuanhua Zhou, Yongfeng Yin and Zhiguo Gong. [Generative adversarial networks based motion learning towards robotic calligraphy synthesis](https://doi.org/10.1049/cit2.12198). CAAI Transactions on Intelligence Technology (JCR Q1/7.9), 2023.
 
-* **Xiaoming Wang**, Peng Liu, Ruidong Xi, Zhiguo Gong. [Enhancing Calligraphy Generation With Deep Generative Adversarial Networks](). IEEE Signal Processing Letters (JCR Q2/IF 3.9), Preprint.
+* Ruidong Xi, Xue Zhang, Tienan Ma, **Xiaoming Wang**, Xiao Xiao, Max Q.-H. Meng. [Disturbance Observer based Terminal Sliding Mode Control for an Electromagnetic Actuated Micropositioner with Prescribed Performance](https://doi.org/10.1109/LRA.2024.3426208). IEEE Robotics and Automation Letters (JCR Q2/IF 4.6), 2024.
 
-* **Xiaoming Wang**, Qingtian Wu, Ruidong Xi, Zhiguo Gong. MegKG: Meta-graph Guided Knowledge Graph Learning for Robot Motion Prediction. The 33rd International Joint Conference on Artificial Intelligence, preprint.
-
-* **Xiaoming Wang**, Peng Liu, Ruidong Xi, Zhiguo Gong. FineCS: Enhancing Style Transfer for Calligraphy Synthesis With Deep Adversarial Learning. IEEE Transactions on Circuits and Systems for Video Technology, preprint. (JCR Q1/8.4)
+* **Xiaoming Wang**, Qingtian Wu, Ruidong Xi, Zhiguo Gong. MegKG: Meta-graph Guided Knowledge Graph Learning for Robot Motion Prediction. preprint.
 
 * Qingtian Wu, **Xiaoming Wang**, Hanzi Wang, Jiajian Zhang, Liming Zhang. [YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection]() IEEE Transactions on Industrial Informatics (JCR Q1/ IF 12.3), Preprint.
 
-* Qingtian Wu, **Xiaoming Wang**, Lei Dai, Fei Richard Yu and Liming Zhang. [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). IEEE Internet of Things Journal (JCR Q1/ IF 10.6), Preprint.
+* Qingtian Wu, **Xiaoming Wang**, Lei Dai, Liming Zhang, Fei Richard Yu. [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). IEEE Internet of Things Journal (JCR Q1/ IF 10.6), Preprint.
 
-* Ruidong Xi, Xue Zhang, Tienan Ma, Xiaoming Wang, Xiao Xiao, Max Q.-H. Meng. Disturbance Observer based Terminal Sliding Mode Control for an Electromagnetic Actuated Micropositioner with Prescribed Performance. IEEE Transactions on Automation Science and Engineering, preprint. (JCR Q2/ IF 5.6)
+* Xiao Xiao, Yangmin Li and **Xiaoming Wang**. [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://doi.org/10.1007/s10846-017-0663-x). Springer Journal of Intelligent & Robotic Systems, 2018. (JCR Q3/ IF 3.3)
 
-* Xiao Xiao, Yangmin Li and **Xiaoming Wang**. [Configuration Analysis and Design of a Multidimensional Tele-operator Based on a 3-P(4S) Parallel Mechanism](https://link.springer.com/article/10.1007/s10846-017-0663-x). Springer Journal of Intelligent & Robotic Systems, 2018. (JCR Q3/ IF 3.3)
-
-* Jinliang Gong, **Xiaoming Wang**, Fengan Huang and Yanfei Zhang. [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://journals.sagepub.com/doi/10.1177/0954406214557342). Journal of Mechanical Engineering Science, 2015. (JCR Q3/ IF 2.07)
+* Jinliang Gong, **Xiaoming Wang**, Fengan Huang and Yanfei Zhang. [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://doi.org/10.1177/0954406214557342). Journal of Mechanical Engineering Science, 2015. (JCR Q3/ IF 2.07)
 
 
 Projects/Fundings
 ------
-* 2019.12-2023.11, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. **National Key Research & Development Program of China**. (Grant no: 2019YFB1600704, RMB 1830800, Main contributor)
-* 2017-2019, Model-Driven Software Development from Requirement Description to Code Generation. Macau Science and Technology Development Fund. (Grant no: MYRG 2017-00141-FST)
+* 2023.1-2024.12, Data Augmentation for Class-Imbalanced Node Classification. University of Macau MYRG Fund. Contributor. In process. (Grant no: MYRG-GRG2023-00186-FST-UMDF)
+* 2019.12-2023.11, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. **National Key Research & Development Program of China**. **Main contributor**. Completed. (Grant no: 2019YFB1600704, RMB 1830800, Main contributor)
+* 2017.1-2019.12, Model-Driven Software Development from Requirement Description to Code Generation. MYRG Fund. Contributor. Completed. (Grant no: MYRG 2017-00141-FST)
 
 Patents/Monograph
 ------
@@ -81,7 +78,7 @@ Research Experiences
 
 Teaching Experiences
 ------
-2019.01-2021.05, **Teaching Assistant** (in English), Faculty of Science and Technology, University of Macau
+2018.09-2021.05, **Teaching Assistant** (in English), Department of Computer and Information Science, University of Macau
 * English Language Centre - Teaching assistant certificate
 * Object-Oriented Analysis and Design Patterns (2018/2019)
 * Principles and Applications of Concurrent Programming (2018/2019)
@@ -98,7 +95,7 @@ Academic activities
 * Served as an Editorial Board Member of International Journal of Intelligent Information Systems (IJIIS, 4/3/2024-4/3/2027). 
 * Served as a reviewer of IEEE Transactions on Circuits and Systems for Video Technology, IEEE/ASME Transactions on Mechatronics, CAAI Transactions on Intelligence Technology, Frontiers in Neuroscience (IF4.3), etc.
 * Served as a volunteer for IJCAI 2023, The 5th International Conference on Nano Manufacturing (nanoMan 2016, Macau), etc.
-* To be serving as a session co-chair of International Conference on Computer Technology and Information Science (CTIS 2024).
+* Served as a session co-chair of International Conference on Computer Technology and Information Science (CTIS 2024).
 
 Internship
 ------
@@ -115,10 +112,9 @@ Certificates
   
 Awards
 ------
-* 2018-present, PhD Research Assistant scholarship, University of Macau
-* 2019-2021, PhD Teaching Assistant scholarship, University of Macau
-* 2015-2018, Master Research Assistant scholarship, University of Macau
-* 2011-2014, School scholarship, Shandong University of Technology
+* 2018-2024, PhD RA/TA scholarship, University of Macau.
+* 2014-2018, Master RA scholarship, University of Macau.
+* 2010-2013, School scholarship, Shandong University of Technology
 * 2012, Specialized scholarship of Scientific and Technological, SDUT
 * 2012, Second prize of the Twelfth Session “The Challenge Cup” Shandong University Student Extracurricular Academic Science and Technology Work Competition
 * 2011, Excellent/Second prize of National 3D Innovation Design Competition
