@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "<font size=5><p align=center>Xiaoming Wang<br />王曉明</p></font>"  #强制换行 <br /> 
   avatar           : "xiaoming.jpg"
-  bio              : "Researching on generative AI, intelligent robotics and robot calligraphy"
+  bio              : "Researching on AIGC, intelligent robotics & robot calligraphy"
   location         : "Macau, China"
   email            : "wangxiaoming622@hotmail.com"
   employer         :
