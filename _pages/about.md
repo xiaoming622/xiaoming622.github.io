@@ -10,14 +10,14 @@ redirect_from:
 
 Personal Information
 ======
-A PhD in computer science from [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) (THE 193/ QS 254, China University “C9 League+”). 
+PhD in computer science from [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) (THE 193/ QS 254, China University “C9 League+”). 
 
 Please find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaoming622.github.io/tree/master/files/XiaomingWang_CV_240722_tr.pdf).
 
 My research interests include:
 
-* **Intelligent Robotics**: calligraphy robot, mobile robot, control, planning, optimization
-* **Machine Learning**: generative AI, image processing, knowledge graph, GNN
+* **Intelligent Robotics**: robot planning, control, optimization; robot calligraphy
+* **Machine Learning**: generative AI; image processing; knowledge graph
 
 <!-- Furthermore, I actively keep abreast of the latest developments in AIGC technologies, with a particular interest in LLM, multimodal, and diffusion models. -->
 
@@ -27,12 +27,37 @@ My research interests include:
 
 Education
 ------
-* 08/2018-07/2024, Ph.D. degree, Computer Science, University of Macau, Macau.
+* 08/2018-08/2024, Ph.D. degree, Computer Science, University of Macau, Macau.
   supervisor: [Prof. Zhiguo GONG](https://www.fst.um.edu.mo/people/fstzgg/), [Prof. Xiaoshan LI](https://www.cis.um.edu.mo/~fstxsl/)
 * 08/2014-07/2018, M.S. degree, Electromechanical Engineering, University of Macau, Macau.
   supervisor: [Prof. Yangmin LI](https://www.polyu.edu.hk/en/ise/people/academic-staff/y-m-li/), [Prof. Zhixin YANG](https://www.fst.um.edu.mo/personal/zxyang/)
 * 09/2009-07/2013, B.S. degree, Innovation Experimental Class, Mechanical and Automation Engineering, Shandong University of Technology, Shandong, China.                
   supervisor: [Prof. Yanfei ZHANG](https://qgxy.sdut.edu.cn/2020/0528/c8372a383525/page.htm), [Prof. Jinliang GONG](http://101.42.242.152/jiaoshiminglu/jsml.aspx)
+
+
+Working Experiences
+------
+* 2024.10-present Lecturer, Department of Artificial Intelligence and Data Science, Guangzhou Xinhua University
+
+* 2023.05-2023.11, Internship, Zhuhai UM Science & Technology Research Institute (ZUMRI), University of Macau.
+
+* 2019.08-2024.08, **Resident Tutor**, Lui Che Woo College, University of Macau.
+
+* 2018.08-2024.08 **Research Assistant**, Software Engineering Lab, **State Key Laboratory of Internet of Things for Smart City**, University of Macau. Researching on calligraphy robot, intelligent control, GUI design.
+
+* 2018.09-2021.05, **Teaching Assistant** (in English), Department of Computer and Information Science, University of Macau.
+  * English Language Centre - Teaching assistant certificate
+  * Object-Oriented Analysis and Design Patterns (2018/2019)
+  * Principles and Applications of Concurrent Programming (2018/2019)
+  * Information Technology Fundamentals and Practices (2020/2021)
+
+* 2016.11-2017.12, House Tutor, Postgraduate House, University of Macau.
+
+* 2014.08-2018.07, **Mechatronics Lab**, University of Macau. Researching on mobile robot, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
+
+* 2013.08-2014.07 Technical Assistant, Zibo Youchuan Water Treatment Technology Co., ltd.
+
+* 2009.09-2013.07, **Parallel Robot Innovation Lab**, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, single-chip microcomputer design with SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
 
 
 Publications
@@ -54,39 +79,19 @@ Publications
 * Jinliang Gong, **Xiaoming Wang**, Fengan Huang and Yanfei Zhang. [Dynamic performances analysis of hybrid press based on dependent generalized coordinates](https://doi.org/10.1177/0954406214557342). Journal of Mechanical Engineering Science, 2015. (JCR Q3/ IF 2.07)
 
 
+Patents/Monograph
+------
+* 《Data for intelligent operation and maintenance of bridge-island-tunnel crossings— Common structural element information》 (T/GBAS 68-2023)，Guangdong-Hong Kong-Macao Greater Bay Area Standards Promotion Council of Guangdong Province, 2023.
+* 《A method for bridge disease knowledge graph modeling and graph neural network prediction》. Patent. In process.
+* 《A robot calligraphy creation and optimization method based on generative adversarial network》. Patent. In process. 
+
+
 Projects/Fundings
 ------
 * 2023.1-2024.12, Data Augmentation for Class-Imbalanced Node Classification. University of Macau MYRG Fund. Contributor. In process. (Grant no: MYRG-GRG2023-00186-FST-UMDF)
 * 2019.12-2023.11, Integrated application of intelligent operation and maintenance technology for the Hong Kong-Zhuhai-Macao Bridge. **National Key Research & Development Program of China**. **Main contributor**. Completed. (Grant no: 2019YFB1600704, RMB 1830800, Main contributor)
 * 2017.1-2019.12, Model-Driven Software Development from Requirement Description to Code Generation. MYRG Fund. Contributor. Completed. (Grant no: MYRG 2017-00141-FST)
 
-Patents/Monograph
-------
-* 《Data for intelligent operation and maintenance of bridge-island-tunnel crossings— Common structural element information》 (T/GBAS 68-2023)，Guangdong-Hong Kong-Macao Greater Bay Area Standards Promotion Council of Guangdong Province, 2023. (Co-author)
-* 《A method for bridge disease knowledge graph modeling and graph neural network prediction》. Patent. In process.
-* 《A robot calligraphy creation and optimization method based on generative adversarial network》. Patent. In process. 
-
-Research Experiences
-------
-* 2021-present, **State Key Laboratory of Internet of Things for Smart City**, University of Macau. Researching on generative AI, robotic machine learning.
-
-* 2018-2021, **Software Engineering Lab**, University of Macau. Researching on calligraphy robot, intelligent control, GUI design.
-
-* 2014-2018, **Mechatronics Lab**, University of Macau. Researching on mobile robot, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
-
-* 2009-2013, **Parallel Robot Innovation Lab**, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, single-chip microcomputer design with SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
-
-Teaching Experiences
-------
-2018.09-2021.05, **Teaching Assistant** (in English), Department of Computer and Information Science, University of Macau
-* English Language Centre - Teaching assistant certificate
-* Object-Oriented Analysis and Design Patterns (2018/2019)
-* Principles and Applications of Concurrent Programming (2018/2019)
-* Information Technology Fundamentals and Practices (2020/2021)
-
-2019.08-present, **Resident Tutor**, Lui Che Woo College, University of Macau
-
-2016.11-2017.12, **House Tutor**, Postgraduate House, University of Macau
 
 Academic activities
 ------
@@ -97,9 +102,6 @@ Academic activities
 * Served as a volunteer for IJCAI 2023, The 5th International Conference on Nano Manufacturing (nanoMan 2016, Macau), etc.
 * Served as a session co-chair of International Conference on Computer Technology and Information Science (CTIS 2024).
 
-Internship
-------
-* 2023.05-2023.11, Zhuhai UM Science & Technology Research Institute (ZUMRI)
 
 Certificates
 ------
