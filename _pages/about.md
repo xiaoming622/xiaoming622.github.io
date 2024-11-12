@@ -24,7 +24,6 @@ My research interests include:
 <!-- As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area. -->
 
 
-
 Education
 ------
 * 08/2018-08/2024, Ph.D. degree, Computer Science, University of Macau, Macau.
