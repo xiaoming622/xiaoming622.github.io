@@ -37,27 +37,27 @@ Education
 
 Working Experiences
 ------
-* 2024.10-present Lecturer, Department of Artificial Intelligence and Data Science, Guangzhou Xinhua University
+* 2024.10-present  Lecturer, Department of Artificial Intelligence and Data Science, Guangzhou Xinhua University
 
-* 2023.05-2023.11, Internship, Zhuhai UM Science & Technology Research Institute (ZUMRI), University of Macau.
+* 2023.05-2023.11  Internship, Zhuhai UM Science & Technology Research Institute (ZUMRI), University of Macau.
 
-* 2019.08-2024.08, **Resident Tutor**, Lui Che Woo College, University of Macau.
+* 2019.08-2024.08  **Resident Tutor**, Lui Che Woo College, University of Macau.
 
-* 2018.08-2024.08 **Research Assistant**, Software Engineering Lab, **State Key Laboratory of Internet of Things for Smart City**, University of Macau. Researching on calligraphy robot, intelligent control, GUI design.
+* 2018.08-2024.08  **Research Assistant**, Software Engineering Lab, **State Key Laboratory of Internet of Things for Smart City**, University of Macau. Researching on calligraphy robot, intelligent control, GUI design.
 
-* 2018.09-2021.05, **Teaching Assistant** (in English), Department of Computer and Information Science, University of Macau.
+* 2018.09-2021.05  **Teaching Assistant** (in English), Department of Computer and Information Science, University of Macau.
   * English Language Centre - Teaching assistant certificate
   * Object-Oriented Analysis and Design Patterns (2018/2019)
   * Principles and Applications of Concurrent Programming (2018/2019)
   * Information Technology Fundamentals and Practices (2020/2021)
 
-* 2016.11-2017.12, House Tutor, Postgraduate House, University of Macau.
+* 2016.11-2017.12  House Tutor, Postgraduate House, University of Macau.
 
-* 2014.08-2018.07, **Mechatronics Lab**, University of Macau. Researching on mobile robot, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
+* 2014.08-2018.07  **Mechatronics Lab**, University of Macau. Researching on mobile robot, motion analysis, and intelligent control with SolidWorks, Protel DXP, LabVIEW and MATLAB, etc.
 
-* 2013.08-2014.07 Technical Assistant, Zibo Youchuan Water Treatment Technology Co., ltd.
+* 2013.08-2014.07  Technical Assistant, Zibo Youchuan Water Treatment Technology Co., ltd.
 
-* 2009.09-2013.07, **Parallel Robot Innovation Lab**, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, single-chip microcomputer design with SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
+* 2009.09-2013.07  **Parallel Robot Innovation Lab**, Shandong University of Technology. Researching on mechanical design, Printed Circuit Board (PCB) design, 3D model rendering, single-chip microcomputer design with SolidWorks, AutoCAD, Protel DXP, LabVIEW, etc.
 
 
 Publications
