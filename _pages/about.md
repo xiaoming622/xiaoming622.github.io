@@ -12,7 +12,7 @@ Personal Information
 ======
 PhD in computer science from [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) (THE 180/ QS 245, China University “C9 League+”). 
 
-Please find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaoming622.github.io/tree/master/files/XiaomingWang_CV_240722_tr.pdf).
+Please find my CV here: [Curriculum Vitae](https://github.com/xiaoming622/xiaoming622.github.io/tree/master/files/XiaomingWang_CV_241111.pdf).
 
 My research interests include:
 
